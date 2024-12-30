@@ -40,6 +40,7 @@ At the top, key performance indicators (KPIs) such as total defects, downtime ho
 
 ## Vendor
 ![](https://github.com/FadilatBraimah/Supplier-Insights/blob/5fc49011a9aea8649682cb948bfd8f53bfc0eb77/vendor.jpg) 
+
 - The vendor with the highest defect quantity is Yombu, contributing 15 million defects, followed closely by Avamm. The chart is sorted in descending order, making it easy to identify the top vendors contributing to defects. These high defect quantities highlight areas requiring immediate attention for quality improvement.
 - The High-Risk Vendors scatter plot shows vendors with the highest defect quantities and a significant impact on downtime. The vendors clustered in the upper-right corner are responsible for the largest defects and downtime, indicating critical risks to operations.
 - The Medium-Risk Vendors scatter plot represents vendors with moderate defect quantities and impact. These vendors show a balance between performance and risk, but they still require monitoring to ensure quality.
@@ -49,9 +50,18 @@ At the top, key performance indicators (KPIs) such as total defects, downtime ho
 - Vendors like Avamm and Yombu are the largest contributors to defects, with over 15 million defects each, making them the top priority for quality checks.
 - Plants like Hingham and Charles City report the highest downtime, with over 99 million hours each, suggesting these facilities may require operational improvements or better maintenance strategies.
 - The Mechanical category accounts for the largest defects, totalling 820.83 million, followed by Logistics and Packaging. This breakdown provides insight into which processes need the most attention.
+- Raw Materials has noticeably more Defect for Defect Type 'No Impact'.
+- 'Goods & Services' has noticeably more Total Downtime Minutes for Material Type 'Controllers'.
 
 ## Recommendations 
-
+- Implement strict quality control measures for Avamm and Yombu to reduce their defect contributions.
+- Investigate and address the causes of excessive downtime at Hingham and Charles City plants.
+- Optimize mechanical processes by improving workflows, equipment, and staff training.
+- Minimize waste in the Raw Materials category by reducing defects labeled as 'No Impact.'
+- Collaborate with suppliers to improve the reliability of controllers in the Goods & Services category.
+- Introduce real-time defect monitoring to track trends and inform corrective actions.
+- Develop standardized reports to identify recurring issues across vendors, plants, and processes.
+- Foster cross-functional collaboration to identify root causes and improve supply chain quality.
 
 #### VIEW THE INTERACTIVE DASHBOARD HERE [Dashbord](https://app.powerbi.com/view?r=eyJrIjoiMzAyZDQ1ZTAtOTJjYi00ZmYxLWFhYTMtNmVhYjdjMmJhNDg4IiwidCI6IjgyMTFmMzM1LWI0YWUtNGQ3NS04ODdkLTdkZGM4ZTJlZDRhYiJ9)
 

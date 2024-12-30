@@ -53,7 +53,9 @@ At the top, key performance indicators (KPIs) such as total defects, downtime ho
 ## Recommendations 
 
 
-VIEW THE INTERACTIVE DASHBOARD HERE [Dashbord](https://app.powerbi.com/view?r=eyJrIjoiMzAyZDQ1ZTAtOTJjYi00ZmYxLWFhYTMtNmVhYjdjMmJhNDg4IiwidCI6IjgyMTFmMzM1LWI0YWUtNGQ3NS04ODdkLTdkZGM4ZTJlZDRhYiJ9)
+#### VIEW THE INTERACTIVE DASHBOARD HERE [Dashbord](https://app.powerbi.com/view?r=eyJrIjoiMzAyZDQ1ZTAtOTJjYi00ZmYxLWFhYTMtNmVhYjdjMmJhNDg4IiwidCI6IjgyMTFmMzM1LWI0YWUtNGQ3NS04ODdkLTdkZGM4ZTJlZDRhYiJ9)
 
-*_THANK YOU FOR READING!!!!!_* 🥰
+This project is a part of Tina Okonkwo's four days of Data Analysis Marathon.
+
+#### *_THANK YOU FOR READING!!!!!_* 🥰
 ![](https://github.com/FadilatBraimah/Supplier-Insights/blob/5fc49011a9aea8649682cb948bfd8f53bfc0eb77/thankyounote.jpeg)
